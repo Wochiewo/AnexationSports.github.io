@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+__pycache__/
+*.pyc
+dist/
+build/
+logs/
+*.log
+db/*.sqlite
+db/*.db
+frontend/.next/
+frontend/.env
+backend/.env
